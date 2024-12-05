@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Event Cards</title>
     <link rel="stylesheet" href="styles.css">
+<style>
  body {
     font-family: Arial, sans-serif;
     background-color: #121212;
@@ -65,6 +66,7 @@
 .btn:hover {
     background-color: #0097a7;
 }
+</style>
 </head>
 <body>
     <div class="event-card-container">
